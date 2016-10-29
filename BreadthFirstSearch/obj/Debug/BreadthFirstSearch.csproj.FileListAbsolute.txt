@@ -1,0 +1,6 @@
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe.config
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\bin\Debug\BreadthFirstSearch.pdb
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.csprojResolveAssemblyReference.cache
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.exe
+C:\Users\Ben\Documents\Visual Studio 2015\Projects\BreadthFirstSearch\BreadthFirstSearch\obj\Debug\BreadthFirstSearch.pdb
